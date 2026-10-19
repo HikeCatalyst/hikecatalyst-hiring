@@ -10,6 +10,7 @@ Welcome. This site indexes our hiring drives. Every drive has role-wise assignme
 
 | Role | Also known as | Assignments |
 |------|---------------|-------------|
+| Stack Builder | MERN Developer | [10 tasks](assignments/mern_developer/index.md) |
 | Prompt Wrangler | AI Applied Full Stack Developer | [12 tasks](assignments/ai_full_stack_developer/index.md) |
 | Bug Hunter | SDET (Software Development Engineer in Test) | [5 tasks](assignments/sdet/index.md) |
 | Fix-It Friend | Technical Support Specialist | [5 tasks](assignments/technical_support/index.md) |
@@ -30,6 +31,7 @@ Sample data for every role is in that role's `sample_data` folder.
 
 ## How to apply
 
+0. Start with the [getting started guide](GETTING_STARTED.md).
 1. Read [how we score and our AI policy](https://github.com/HikeCatalyst/hikecatalyst-hiring#readme).
 2. Pick the role and the tasks we assigned you.
 3. Follow [the submission guide](SUBMISSION.md): your own public repo per task, then a pull request with your links.

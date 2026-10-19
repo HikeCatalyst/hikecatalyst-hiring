@@ -1,9 +1,10 @@
 # HikeCatalyst Hiring Assignments
 
-Thanks for applying. Pick the folder for the role you applied to inside `assignments/`, and finish within **5 days**.
+Thanks for applying. New here? Read [GETTING_STARTED.md](GETTING_STARTED.md) first. Pick the folder for the role you applied to inside `assignments/`, and finish within **5 days**.
 
 | Role | Folder |
 |------|--------|
+| MERN Developer | `assignments/mern_developer` (10 tasks) |
 | AI Applied Full Stack Developer | `assignments/ai_full_stack_developer` (12 tasks) |
 | SDET (Software Development Engineer in Test) | `assignments/sdet` (5 tasks) |
 | Technical Support Specialist | `assignments/technical_support` (5 tasks) |
