@@ -1,0 +1,14 @@
+1. Attach a schema file (Prisma schema.prisma or Drizzle schema.ts) from a past project. If you have none, design one for this task: users, resumes, analyses.
+->
+
+2. Explain, in your own words, what happens from typing a URL and pressing Enter to a form submit being saved in a database.
+->
+
+3. Write a SQL query: the top 5 customers by total order value from `customers(id, name)` and `orders(id, customer_id, amount)`. Which index would you add and why?
+->
+
+4. A user says "my profile didn't save". Describe, step by step, how you investigate.
+->
+
+5. An LLM sometimes returns invalid JSON or invents skills not in the resume. How do you design your code around this?
+->

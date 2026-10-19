@@ -1,0 +1,11 @@
+1. Which AI tools do you use for coding, and for what? Give one example where AI output was wrong and how you caught it.
+->
+
+2. How do you stay updated on software development topics? (Forums, Discord, Slack, meetups, X, blogs)
+->
+
+3. Describe one thing you built yourself. Explain one file of it line by line. What would you change?
+->
+
+4. How do you make sure your frontend code is reliable? What testing methods and tools do you use?
+->
