@@ -1,8 +1,8 @@
-## Task 02: Partnership Pitch
+## Task 03: Operations Tracker
 
 **Level:** Medium.
 
-Write a one-page pitch and a 6-slide deck for a college placement-cell partnership. Include an offer, proof points that are verifiable, and a pilot plan.
+Set up a tracker for leads, partner calls and events with owners and due dates. Add a weekly summary computed from the data.
 
 **Deliverables:** the files above, plus `AI_LOG.md`. Be ready to explain every number and sentence on the follow-up call.
 
@@ -11,19 +11,19 @@ Write a one-page pitch and a 6-slide deck for a college placement-cell partnersh
 
 ## Repo and submission
 
-1. **Public repo name:** `hikecatalyst-bd-ops-intern-partnership-pitch` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
+1. **Public repo name:** `hikecatalyst-bd-ops-operations-tracker` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
 2. **Put in the repo:** all deliverables as files (`.md`, `.csv`, `.sql`, code, images, exports, and links to videos or dashboards with view access on), a `README.md` listing each file, and `AI_LOG.md` (prompts, what the AI got wrong, what you fixed).
 3. **Tools you may need:** Git, a free GitHub account, `gh` CLI (optional), Google Sheets or Excel, VS Code, and any AI tool. Never put real people's private data or API keys in the repo.
 4. **Create and push:**
 
 ```bash
-mkdir hikecatalyst-bd-ops-intern-partnership-pitch && cd hikecatalyst-bd-ops-intern-partnership-pitch
+mkdir hikecatalyst-bd-ops-operations-tracker && cd hikecatalyst-bd-ops-operations-tracker
 git init -b main
 # ...add your files and README.md...
 git add -A && git commit -m "feat: first draft of deliverables"
-gh repo create hikecatalyst-bd-ops-intern-partnership-pitch --public --source=. --remote=origin --push
+gh repo create hikecatalyst-bd-ops-operations-tracker --public --source=. --remote=origin --push
 # without gh:
-# git remote add origin git@github.com:<your-username>/hikecatalyst-bd-ops-intern-partnership-pitch.git
+# git remote add origin git@github.com:<your-username>/hikecatalyst-bd-ops-operations-tracker.git
 # git push -u origin main
 ```
 

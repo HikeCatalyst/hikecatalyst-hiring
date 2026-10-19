@@ -1,8 +1,8 @@
-## Task 03: Operations Tracker
+## Task 04: Process Improvement Proposal
 
-**Level:** Medium.
+**Level:** Medium to Advanced.
 
-Set up a tracker for leads, partner calls and events with owners and due dates. Add a weekly summary computed from the data.
+Map one operations process (event setup, onboarding, or follow-up). Find 3 delays, estimate the time lost and propose a fix with a pilot.
 
 **Deliverables:** the files above, plus `AI_LOG.md`. Be ready to explain every number and sentence on the follow-up call.
 
@@ -11,19 +11,19 @@ Set up a tracker for leads, partner calls and events with owners and due dates. 
 
 ## Repo and submission
 
-1. **Public repo name:** `hikecatalyst-bd-ops-intern-operations-tracker` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
+1. **Public repo name:** `hikecatalyst-bd-ops-process-improvement-proposal` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
 2. **Put in the repo:** all deliverables as files (`.md`, `.csv`, `.sql`, code, images, exports, and links to videos or dashboards with view access on), a `README.md` listing each file, and `AI_LOG.md` (prompts, what the AI got wrong, what you fixed).
 3. **Tools you may need:** Git, a free GitHub account, `gh` CLI (optional), Google Sheets or Excel, VS Code, and any AI tool. Never put real people's private data or API keys in the repo.
 4. **Create and push:**
 
 ```bash
-mkdir hikecatalyst-bd-ops-intern-operations-tracker && cd hikecatalyst-bd-ops-intern-operations-tracker
+mkdir hikecatalyst-bd-ops-process-improvement-proposal && cd hikecatalyst-bd-ops-process-improvement-proposal
 git init -b main
 # ...add your files and README.md...
 git add -A && git commit -m "feat: first draft of deliverables"
-gh repo create hikecatalyst-bd-ops-intern-operations-tracker --public --source=. --remote=origin --push
+gh repo create hikecatalyst-bd-ops-process-improvement-proposal --public --source=. --remote=origin --push
 # without gh:
-# git remote add origin git@github.com:<your-username>/hikecatalyst-bd-ops-intern-operations-tracker.git
+# git remote add origin git@github.com:<your-username>/hikecatalyst-bd-ops-process-improvement-proposal.git
 # git push -u origin main
 ```
 

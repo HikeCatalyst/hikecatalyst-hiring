@@ -7,7 +7,7 @@ You build real apps that use LLMs, and you must show you can handle what goes wr
 1. **Everyone:** the AI code review (`ai_code_review/`), 45 minutes.
 2. **Everyone:** the question files in `technical/` and `non_technical/`.
 3. **Pick coding tasks from `tasks/`:**
-   - Internship level: **one medium task**.
+   - Entry level: **one medium task**.
    - Stronger candidates: **one advanced task**, or one medium plus a second one of any level.
 
 | # | Task | Level |

@@ -11,19 +11,19 @@ Build a tracker with leave balance, approvals and a monthly summary. Test it on 
 
 ## Repo and submission
 
-1. **Public repo name:** `hikecatalyst-hr-ops-intern-attendance-and-leave-tracker` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
+1. **Public repo name:** `hikecatalyst-hr-ops-attendance-and-leave-tracker` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
 2. **Put in the repo:** all deliverables as files (`.md`, `.csv`, `.sql`, code, images, exports, and links to videos or dashboards with view access on), a `README.md` listing each file, and `AI_LOG.md` (prompts, what the AI got wrong, what you fixed).
 3. **Tools you may need:** Git, a free GitHub account, `gh` CLI (optional), Google Sheets or Excel, VS Code, and any AI tool. Never put real people's private data or API keys in the repo.
 4. **Create and push:**
 
 ```bash
-mkdir hikecatalyst-hr-ops-intern-attendance-and-leave-tracker && cd hikecatalyst-hr-ops-intern-attendance-and-leave-tracker
+mkdir hikecatalyst-hr-ops-attendance-and-leave-tracker && cd hikecatalyst-hr-ops-attendance-and-leave-tracker
 git init -b main
 # ...add your files and README.md...
 git add -A && git commit -m "feat: first draft of deliverables"
-gh repo create hikecatalyst-hr-ops-intern-attendance-and-leave-tracker --public --source=. --remote=origin --push
+gh repo create hikecatalyst-hr-ops-attendance-and-leave-tracker --public --source=. --remote=origin --push
 # without gh:
-# git remote add origin git@github.com:<your-username>/hikecatalyst-hr-ops-intern-attendance-and-leave-tracker.git
+# git remote add origin git@github.com:<your-username>/hikecatalyst-hr-ops-attendance-and-leave-tracker.git
 # git push -u origin main
 ```
 

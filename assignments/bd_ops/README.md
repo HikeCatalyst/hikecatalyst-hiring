@@ -1,6 +1,6 @@
-# Business Development and Operations Intern Challenge
+# Business Development and Operations Challenge
 
-Also known as: Business Development and Operations Intern. Pick the tasks we assigned you. Use AI and log it in `AI_LOG.md`. Build each in your own public repo (see [SUBMISSION.md](../../SUBMISSION.md)).
+Also known as: Business Development and Operations. Pick the tasks we assigned you. Use AI and log it in `AI_LOG.md`. Build each in your own public repo (see [SUBMISSION.md](../../SUBMISSION.md)).
 
 | Task | Level |
 |------|-------|

@@ -1,4 +1,4 @@
-# Sales Internship Challenge
+# Sales Hiring Assignment
 
 Do **2 tasks** from `tasks/` (we tell you which ones), plus a 30-minute call. Task 03 is a role-play, so everyone does a live version of it on the call.
 
