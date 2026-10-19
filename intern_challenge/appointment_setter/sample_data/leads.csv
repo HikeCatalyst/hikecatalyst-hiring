@@ -1,0 +1,61 @@
+lead_id,name,role,experience_years,source,contacted,booked,showed_up
+S001,Lead 1,QA,2,LinkedIn,1,1,1
+S002,Lead 2,QA,2,Webinar,1,0,0
+S003,Lead 3,DevOps,7,LinkedIn,1,1,0
+S004,Lead 4,DevOps,1,Webinar,1,1,1
+S005,Lead 5,Java Dev,5,Webinar,1,0,0
+S006,Lead 6,Data Analyst,9,Instagram,1,1,1
+S007,Lead 7,QA,9,LinkedIn,1,1,1
+S008,Lead 8,DevOps,7,Referral,1,0,0
+S009,Lead 9,Data Analyst,5,Instagram,1,0,0
+S010,Lead 10,Java Dev,2,Referral,1,0,0
+S011,Lead 11,Support,5,LinkedIn,1,0,0
+S012,Lead 12,Data Analyst,3,Webinar,1,0,0
+S013,Lead 13,QA,9,Referral,1,0,0
+S014,Lead 14,Support,10,Webinar,1,1,1
+S015,Lead 15,QA,1,Referral,1,1,1
+S016,Lead 16,Support,5,Webinar,0,0,0
+S017,Lead 17,Data Analyst,1,Webinar,0,0,0
+S018,Lead 18,Support,1,Instagram,1,0,0
+S019,Lead 19,Java Dev,7,Webinar,1,1,0
+S020,Lead 20,Support,9,Referral,1,1,0
+S021,Lead 21,DevOps,5,Webinar,0,0,0
+S022,Lead 22,Support,4,Instagram,0,0,0
+S023,Lead 23,Java Dev,1,Webinar,1,1,0
+S024,Lead 24,Java Dev,7,Referral,1,1,1
+S025,Lead 25,DevOps,10,LinkedIn,1,1,1
+S026,Lead 26,DevOps,7,Webinar,0,0,0
+S027,Lead 27,Support,1,Instagram,1,1,1
+S028,Lead 28,Data Analyst,10,LinkedIn,1,1,1
+S029,Lead 29,Data Analyst,10,LinkedIn,1,0,0
+S030,Lead 30,Support,3,Referral,1,1,0
+S031,Lead 31,QA,8,Webinar,1,0,0
+S032,Lead 32,Java Dev,2,Referral,1,1,0
+S033,Lead 33,DevOps,1,Instagram,1,0,0
+S034,Lead 34,DevOps,6,Instagram,0,0,0
+S035,Lead 35,DevOps,5,LinkedIn,1,0,0
+S036,Lead 36,Data Analyst,3,Referral,1,1,0
+S037,Lead 37,Data Analyst,4,Instagram,1,0,0
+S038,Lead 38,Support,4,Instagram,0,0,0
+S039,Lead 39,QA,1,Referral,1,1,1
+S040,Lead 40,Data Analyst,8,Referral,1,0,0
+S041,Lead 41,Data Analyst,2,Instagram,0,0,0
+S042,Lead 42,Data Analyst,4,Webinar,1,0,0
+S043,Lead 43,QA,8,Referral,1,0,0
+S044,Lead 44,QA,7,Instagram,1,1,1
+S045,Lead 45,Data Analyst,2,Webinar,1,0,0
+S046,Lead 46,QA,3,Instagram,1,0,0
+S047,Lead 47,QA,3,Webinar,0,0,0
+S048,Lead 48,Java Dev,10,Webinar,0,0,0
+S049,Lead 49,DevOps,9,Instagram,1,1,1
+S050,Lead 50,QA,9,Instagram,1,0,0
+S051,Lead 51,Java Dev,1,Referral,1,0,0
+S052,Lead 52,DevOps,6,Referral,1,0,0
+S053,Lead 53,QA,6,Webinar,1,0,0
+S054,Lead 54,DevOps,7,Instagram,1,0,0
+S055,Lead 55,QA,8,Instagram,1,0,0
+S056,Lead 56,Java Dev,3,Instagram,1,0,0
+S057,Lead 57,DevOps,1,Referral,1,0,0
+S058,Lead 58,Support,2,LinkedIn,1,0,0
+S059,Lead 59,QA,9,Webinar,1,1,1
+S060,Lead 60,Support,6,Instagram,1,0,0

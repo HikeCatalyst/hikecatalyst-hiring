@@ -1,0 +1,17 @@
+2026-10-18T10:01:01Z INFO request id=1 user=u1 path=/api/resume 200
+2026-10-18T10:02:02Z INFO request id=2 user=u2 path=/api/resume 200
+2026-10-18T10:03:03Z INFO request id=3 user=u3 path=/api/resume 200
+2026-10-18T10:04:04Z INFO request id=4 user=u4 path=/api/resume 200
+2026-10-18T10:05:05Z INFO request id=5 user=u5 path=/api/resume 200
+2026-10-18T10:06:06Z INFO request id=6 user=u6 path=/api/resume 200
+2026-10-18T10:07:07Z INFO request id=7 user=u0 path=/api/resume 200
+2026-10-18T10:08:08Z INFO request id=8 user=u1 path=/api/resume 200
+2026-10-18T10:09:00Z INFO request id=9 user=u2 path=/api/resume 200
+2026-10-18T10:10:01Z INFO request id=10 user=u3 path=/api/resume 200
+2026-10-18T10:11:02Z INFO request id=11 user=u4 path=/api/resume 200
+2026-10-18T10:12:03Z ERROR upload id=12 user=u3 file too large 413
+2026-10-18T10:12:09Z ERROR upload id=13 user=u3 file too large 413
+2026-10-18T10:13:00Z WARN db pool exhausted active=20 waiting=14
+2026-10-18T10:13:02Z ERROR request id=14 user=u5 path=/api/analyze timeout 504
+2026-10-18T10:13:04Z ERROR request id=15 user=u1 path=/api/analyze timeout 504
+2026-10-18T10:13:05Z ERROR request id=16 user=u2 path=/api/analyze timeout 504

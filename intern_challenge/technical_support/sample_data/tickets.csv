@@ -1,0 +1,26 @@
+ticket_id,category,priority,opened,first_response_hours,resolved_hours,message
+T001,Email,medium,2026-10-08,2,24,User reports a problem with email.
+T002,Upload,medium,2026-10-06,1,24,User reports a problem with upload.
+T003,Video,low,2026-10-16,9,,User reports a problem with video.
+T004,Slow page,low,2026-10-08,17,2,User reports a problem with slow page.
+T005,Login,medium,2026-10-03,5,48,User reports a problem with login.
+T006,Email,low,2026-10-13,1,24,User reports a problem with email.
+T007,Payment,high,2026-10-08,3,,User reports a problem with payment.
+T008,Email,low,2026-10-13,25,24,User reports a problem with email.
+T009,Slow page,medium,2026-10-05,10,,User reports a problem with slow page.
+T010,Slow page,low,2026-10-02,27,,User reports a problem with slow page.
+T011,Slow page,medium,2026-10-17,5,,User reports a problem with slow page.
+T012,Other,high,2026-10-01,27,,User reports a problem with other.
+T013,Other,high,2026-10-08,3,2,User reports a problem with other.
+T014,Login,low,2026-10-12,4,48,User reports a problem with login.
+T015,Other,medium,2026-10-18,2,2,User reports a problem with other.
+T016,Slow page,high,2026-10-08,16,24,User reports a problem with slow page.
+T017,Login,medium,2026-10-03,24,,User reports a problem with login.
+T018,Email,low,2026-10-17,3,48,User reports a problem with email.
+T019,Payment,low,2026-10-09,8,6,User reports a problem with payment.
+T020,Upload,high,2026-10-15,16,48,User reports a problem with upload.
+T021,Login,medium,2026-10-10,25,2,User reports a problem with login.
+T022,Email,high,2026-10-07,3,,User reports a problem with email.
+T023,Upload,medium,2026-10-09,21,24,User reports a problem with upload.
+T024,Email,high,2026-10-05,1,48,User reports a problem with email.
+T025,Login,medium,2026-10-09,22,2,User reports a problem with login.

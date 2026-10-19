@@ -4,13 +4,23 @@ Congratulations on being shortlisted. Pick the folder for the role you applied t
 
 | Role | Folder |
 |------|--------|
-| AI Applied Full Stack Development | `intern_challenge/ai_full_stack_developer` (12 tasks) |
-| Social Media & Content Marketing | `intern_challenge/social_media_content_marketing` |
-| Business Analyst / Development Associate | `intern_challenge/business_analyst` |
-| IT Recruitment & Talent Acquisition | `intern_challenge/it_recruiter` |
-| Sales | `intern_challenge/sales` |
+| AI Applied Full Stack Developer | `intern_challenge/ai_full_stack_developer` (12 tasks) |
+| SDET (Software Development Engineer in Test) | `intern_challenge/sdet` (5 tasks) |
+| Technical Support Specialist | `intern_challenge/technical_support` (5 tasks) |
+| Business Analyst / Development Associate | `intern_challenge/business_analyst` (5 tasks) |
+| Business Development and Operations Intern | `intern_challenge/bd_ops_intern` (5 tasks) |
+| Sales | `intern_challenge/sales` (5 tasks) |
+| Setter (Appointment Setter) | `intern_challenge/appointment_setter` (5 tasks) |
+| PRE Sales Representative / Executive | `intern_challenge/pre_sales_executive` (5 tasks) |
+| Service Advisor | `intern_challenge/service_advisor` (5 tasks) |
+| Job Searcher | `intern_challenge/job_searcher` (5 tasks) |
+| Social Media and Content Marketing | `intern_challenge/social_media_content_marketing` (5 tasks) |
+| IT Recruitment and Talent Acquisition | `intern_challenge/it_recruiter` (5 tasks) |
+| Human Resource Operations Intern | `intern_challenge/hr_ops_intern` (5 tasks) |
+| Human Resource and Finance Manager | `intern_challenge/hr_finance_manager` (5 tasks) |
+| PRE Press Manager (print and brand collateral) | `intern_challenge/pre_press_manager` (5 tasks) |
 
-Each role folder has a `tasks/` folder: 12 tasks for AI full stack, 5 for every other role. Each task is marked medium or advanced. We assign the tasks for your role. Medium shows you can do the job. Advanced shows you can be trusted with hard problems and is considered for the stronger offer track.
+Each role folder has a `tasks/` folder: 12 tasks for AI full stack and 5 for every other role. Each task is marked medium or advanced. We assign the tasks for your role. Medium shows you can do the job. Advanced shows you can be trusted with hard problems and is considered for the stronger offer track.
 
 ## How to submit
 
