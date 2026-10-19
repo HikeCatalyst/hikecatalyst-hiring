@@ -1,0 +1,19 @@
+title: HikeCatalyst Hiring
+description: Internship and hiring challenges. Use AI, show your judgement.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+optional_front_matter:
+  remove_originals: true
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+exclude:
+  - Gemfile
+  - Gemfile.lock

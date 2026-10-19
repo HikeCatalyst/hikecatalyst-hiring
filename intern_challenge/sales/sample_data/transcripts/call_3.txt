@@ -1,0 +1,10 @@
+# Call 3: ready to buy
+
+Rep: What is your target?
+Lead: Data engineer, product company, 28 LPA.
+Rep: Current?
+Lead: 19 LPA, 4 years.
+Rep: What blocks you?
+Lead: System design rounds.
+Rep: We have a mentor for that.
+Lead: Okay, send the payment link today. Start Monday.

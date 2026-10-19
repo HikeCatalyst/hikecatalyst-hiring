@@ -34,3 +34,7 @@ Different candidates get different tasks. We assign the task, so two candidates 
 - Each submission has a README with setup steps, a `.env.example`, and honest notes on what does not work.
 - A half-finished advanced task with an honest `DESIGN.md` beats a polished copy of an AI answer.
 - In the 30-minute follow-up call you explain one file, break it on purpose, and add a change live.
+
+## Sample files
+
+Starter data is in [`sample_data/`](sample_data/).

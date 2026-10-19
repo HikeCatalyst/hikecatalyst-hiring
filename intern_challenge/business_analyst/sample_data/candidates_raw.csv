@@ -1,0 +1,319 @@
+candidate_id,source,domain,experience_years,stage_reached,days_in_stage,offer_hike_percent,email
+C0016,LinkedIn,DevOps,4,lead,10,,cand16@example.com
+C0234,LinkedIn,Non-IT,5,Lead,6,,cand234@example.com
+C0286,Instagram,Product,4,lead,23,,cand286@example.com
+C0181,Google Ads,QA,5,Resume-Ready,2,,cand181@example.com
+C0071,YouTube,DevOps,10,applications sent,22,,cand71@example.com
+C0118,LinkedIn,QA,12,Profile Review,12,,cand118@example.com
+C0154,Instagram,DevOps,7,Interview Rounds,6,,cand154@example.com
+C0292,Instagram,Product,10,Applied,11,,cand292@example.com
+C0024,YouTube,Non-IT,4,New Lead,8,,cand24@example.com
+C0061,LinkedIn,Data,12,Applied,3,,cand61@example.com
+C0296,YouTube,Non-IT,3,Profile Review,13,,cand296@example.com
+C0228,LinkedIn,IT Services,9,Resume-Ready,22,,cand228@example.com
+C0174,Instagram,Data,6,New Lead,12,,cand174@example.com
+C0025,Referral,Data,7,HR call,21,,cand25@example.com
+C0125,Referral,Non-IT,8,resume ready,11,,cand125@example.com
+C0047,YouTube,DevOps,6,applications sent,8,,cand47@example.com
+C0193,YouTube,Non-IT,4,Applications Sent,22,,cand193@example.com
+C0050,Referral,Non-IT,9,hr call,19,,cand50@example.com
+C0132,LinkedIn,QA,8,Resume Ready,19,,cand132@example.com
+C0005-dup,Google Ads,Non-IT,7,profile_review,17,,CAND5@EXAMPLE.COM
+C0116,Instagram,Product,11,applications sent,3,,cand116@example.com
+C0200,Referral,Data,8,New Lead,13,,cand200@example.com
+C0251,Google Ads,Non-IT,10,Profile Review,10,,cand251@example.com
+C0225,Referral,IT Services,1,resume ready,5,,cand225@example.com
+C0022,YouTube,DevOps,10,New Lead,5,,cand22@example.com
+C0077,Instagram,IT Services,4,profile_review,7,,cand77@example.com
+C0270,Google Ads,IT Services,10,Applications Sent,18,,cand270@example.com
+C0219,YouTube,Data,6,Applications Sent,12,,cand219@example.com
+C0299,LinkedIn,Data,12,lead,16,,cand299@example.com
+C0293,LinkedIn,IT Services,2,Resume Ready,15,,cand293@example.com
+C0090,Google Ads,Non-IT,1,profile_review,19,,cand90@example.com
+C0240,Google Ads,Data,7,Profile Review,22,,cand240@example.com
+C0109,YouTube,QA,4,Profile Review,11,,cand109@example.com
+C0210,YouTube,Product,11,applications sent,14,,cand210@example.com
+C0092,Instagram,Data,9,Profile review,20,,cand92@example.com
+C0141,Google Ads,IT Services,3,LEAD ,21,,cand141@example.com
+C0273,Google Ads,Non-IT,12,LEAD ,20,,cand273@example.com
+C0290,LinkedIn,Non-IT,2,New Lead,21,,cand290@example.com
+C0091,Instagram,QA,12,Interview Rounds,17,,cand91@example.com
+C0057,LinkedIn,Product,9,profile_review,6,,cand57@example.com
+C0081,LinkedIn,Data,1,offer,6,68,cand81@example.com
+C0259,Google Ads,QA,12,Lead,4,,cand259@example.com
+C0119,LinkedIn,Non-IT,6,Applications Sent,2,,cand119@example.com
+C0258,Google Ads,Data,10,New Lead,18,,cand258@example.com
+C0104,YouTube,Data,4,LEAD ,22,,cand104@example.com
+C0272-dup,Google Ads,DevOps,2,LEAD ,12,,CAND272@EXAMPLE.COM
+C0226-dup,Instagram,IT Services,10,applications sent,22,,CAND226@EXAMPLE.COM
+C0274,LinkedIn,Product,10,offer,14,64,cand274@example.com
+C0074,Instagram,QA,10,applications sent,3,,cand74@example.com
+C0005,Google Ads,Non-IT,7,profile_review,17,,cand5@example.com
+C0212,Google Ads,Product,4,Applied,23,,cand212@example.com
+C0180-dup,Google Ads,IT Services,9,Profile Review,14,,CAND180@EXAMPLE.COM
+C0029,Google Ads,IT Services,10,Lead,8,,cand29@example.com
+C0087,Google Ads,DevOps,8,LEAD ,21,,cand87@example.com
+C0232,LinkedIn,Non-IT,6,Offer Received,4,78,cand232@example.com
+C0078,Instagram,QA,6,Lead,1,,cand78@example.com
+C0088,YouTube,Data,1,Offer,12,450,cand88@example.com
+C0139,YouTube,Product,10,Profile Review,3,,cand139@example.com
+C0115,Google Ads,IT Services,11,lead,23,,cand115@example.com
+C0145,YouTube,QA,3,Profile review,10,,cand145@example.com
+C0244,Instagram,IT Services,1,Applications Sent,12,,cand244@example.com
+C0255,Instagram,DevOps,1,New Lead,23,,cand255@example.com
+C0055,LinkedIn,DevOps,4,Resume Ready,25,,cand55@example.com
+C0034,Google Ads,Data,5,Lead,15,,cand34@example.com
+C0275,Referral,Product,9,Applications Sent,16,,cand275@example.com
+C0126,Instagram,DevOps,5,Resume Ready,24,,cand126@example.com
+C0218,Instagram,Non-IT,6,hr call,9,,cand218@example.com
+C0056,Instagram,Product,6,Profile Review,20,,cand56@example.com
+C0194,LinkedIn,IT Services,1,applications sent,17,,cand194@example.com
+C0158,YouTube,Non-IT,8,Applied,18,,cand158@example.com
+C0051,Instagram,Non-IT,2,New Lead,20,,cand51@example.com
+C0248,YouTube,Data,2,Applied,9,,cand248@example.com
+C0065,Instagram,Data,6,profile_review,13,,cand65@example.com
+C0013,YouTube,Data,9,Profile Review,22,,cand13@example.com
+C0253,YouTube,Data,10,Profile Review,11,,cand253@example.com
+C0011,YouTube,QA,7,Profile review,16,,cand11@example.com
+C0170,LinkedIn,DevOps,8,Offer Received,24,41,cand170@example.com
+C0137,LinkedIn,Non-IT,11,HR Call,12,,cand137@example.com
+C0294,Google Ads,Product,12,Profile Review,21,,cand294@example.com
+C0203,LinkedIn,Data,11,New Lead,18,,cand203@example.com
+C0105,Google Ads,Product,4,applications sent,5,,cand105@example.com
+C0006,Google Ads,Data,12,profile_review,20,,cand6@example.com
+C0140,YouTube,Data,9,profile_review,25,,cand140@example.com
+C0263,Google Ads,Non-IT,9,Profile Review,12,,cand263@example.com
+C0019,Google Ads,Product,8,lead,13,,cand19@example.com
+C0195,Instagram,IT Services,11,Applications Sent,23,,cand195@example.com
+C0239,Google Ads,QA,1,LEAD ,15,,cand239@example.com
+C0054,LinkedIn,Data,2,applications sent,7,,cand54@example.com
+C0178,Instagram,Product,4,Profile Review,22,,cand178@example.com
+C0189,LinkedIn,Data,6,Resume Ready,1,,cand189@example.com
+C0173,YouTube,Product,5,Applied,23,,cand173@example.com
+C0144,YouTube,QA,9,resume ready,3,,cand144@example.com
+C0249,Instagram,Data,10,lead,15,,cand249@example.com
+C0114,YouTube,DevOps,8,Applications Sent,4,,cand114@example.com
+C0288,YouTube,IT Services,7,applications sent,24,,cand288@example.com
+C0049,LinkedIn,QA,8,Lead,4,,cand49@example.com
+C0085,YouTube,Non-IT,3,Profile Review,4,,cand85@example.com
+C0224,Google Ads,Non-IT,1,Profile review,2,,cand224@example.com
+C0177,LinkedIn,QA,9,Offer Received,9,40,cand177@example.com
+C0002,Instagram,IT Services,11,Resume Ready,9,,cand2@example.com
+C0208,Instagram,Non-IT,10,LEAD ,19,,cand208@example.com
+C0245,LinkedIn,Data,1,profile_review,14,,cand245@example.com
+C0233,LinkedIn,Non-IT,10,profile_review,9,,cand233@example.com
+C0113,Instagram,DevOps,7,Profile Review,25,,cand113@example.com
+C0221,Instagram,Non-IT,6,hr call,25,,cand221@example.com
+C0166,YouTube,DevOps,5,Applied,1,,cand166@example.com
+C0252,YouTube,Data,6,Profile Review,13,,cand252@example.com
+C0168,Google Ads,DevOps,10,Profile Review,24,,cand168@example.com
+C0149,Google Ads,IT Services,8,LEAD ,21,,cand149@example.com
+C0122,YouTube,IT Services,6,profile_review,17,,cand122@example.com
+C0102,Instagram,DevOps,3,Profile review,15,,cand102@example.com
+C0098,Google Ads,IT Services,6,LEAD ,6,,cand98@example.com
+C0150,Referral,Data,4,New Lead,10,,cand150@example.com
+C0110-dup,LinkedIn,Non-IT,6,lead,5,,CAND110@EXAMPLE.COM
+C0026,Instagram,IT Services,8,Applications Sent,17,,cand26@example.com
+C0100,Referral,Non-IT,9,Applications Sent,22,,cand100@example.com
+C0186,Google Ads,QA,3,Profile review,15,,cand186@example.com
+C0153,Instagram,DevOps,9,Lead,11,,cand153@example.com
+C0076,LinkedIn,DevOps,11,Applied,2,,cand76@example.com
+C0048,LinkedIn,Non-IT,7,Resume Ready,5,,cand48@example.com
+C0060,Google Ads,DevOps,1,LEAD ,15,,cand60@example.com
+C0032,YouTube,Product,3,Applications Sent,3,,cand32@example.com
+C0191,YouTube,Non-IT,5,interview rounds,4,,cand191@example.com
+C0130,LinkedIn,Non-IT,3,Applications Sent,5,,cand130@example.com
+C0160,YouTube,QA,1,New Lead,2,,cand160@example.com
+C0246,Google Ads,Non-IT,9,lead,19,,cand246@example.com
+C0136,LinkedIn,QA,11,LEAD ,23,,cand136@example.com
+C0075,Referral,Data,7,offer,7,69,cand75@example.com
+C9003,LinkedIn,Product,5,Offer,3,40,skip3@example.com
+C0176,Google Ads,Data,6,lead,10,,cand176@example.com
+C0211,Google Ads,Data,9,resume ready,23,,cand211@example.com
+C0227-dup,Google Ads,IT Services,1,New Lead,1,,CAND227@EXAMPLE.COM
+C0229,Google Ads,Product,2,Lead,17,,cand229@example.com
+C0247,Instagram,Product,3,LEAD ,10,,cand247@example.com
+C0222,Google Ads,Non-IT,12,New Lead,15,,cand222@example.com
+C0073,Instagram,IT Services,2,applications sent,17,,cand73@example.com
+C0120,YouTube,Product,11,profile_review,23,,cand120@example.com
+C0018,Instagram,DevOps,12,profile_review,14,,cand18@example.com
+C0103,LinkedIn,Data,4,interview rounds,8,,cand103@example.com
+C0164,YouTube,DevOps,8,lead,20,,cand164@example.com
+C0297,YouTube,Product,7,Lead,23,,cand297@example.com
+C0300,Referral,Product,7,Interview Rounds,21,,cand300@example.com
+C0287,YouTube,Non-IT,7,New Lead,5,,cand287@example.com
+C0074-dup,Instagram,QA,10,applications sent,3,,CAND74@EXAMPLE.COM
+C0129,YouTube,QA,10,profile_review,9,,cand129@example.com
+C0243,YouTube,Data,6,resume ready,4,,cand243@example.com
+C0205,YouTube,IT Services,1,Profile review,14,,cand205@example.com
+C0172,Instagram,DevOps,6,Profile review,25,,cand172@example.com
+C0267,LinkedIn,Product,9,Resume Ready,18,,cand267@example.com
+C0280,Instagram,IT Services,12,lead,10,,cand280@example.com
+C0082,Google Ads,QA,2,New Lead,4,,cand82@example.com
+C0107,LinkedIn,Product,7,Resume Ready,8,,cand107@example.com
+C9001,LinkedIn,Product,5,Offer,3,40,skip1@example.com
+C0083,Instagram,Non-IT,6,Applications Sent,11,,cand83@example.com
+C0289,YouTube,Data,8,profile_review,19,,cand289@example.com
+C0108,Google Ads,IT Services,7,Lead,13,,cand108@example.com
+C0085-dup,YouTube,Non-IT,3,Profile Review,4,,CAND85@EXAMPLE.COM
+C0010,Google Ads,Data,6,New Lead,11,,cand10@example.com
+C0046,YouTube,QA,10,Interview,21,,cand46@example.com
+C0039,YouTube,Product,10,LEAD ,8,,cand39@example.com
+C0099,Instagram,Product,4,Profile Review,5,,cand99@example.com
+C0094,LinkedIn,QA,5,HR call,22,,cand94@example.com
+C0121,Google Ads,Product,2,New Lead,2,,cand121@example.com
+C0241,Google Ads,Product,12,Profile Review,3,,cand241@example.com
+C0230,Instagram,QA,6,profile_review,13,,cand230@example.com
+C0215,Instagram,IT Services,2,Resume Ready,25,,cand215@example.com
+C0012,YouTube,IT Services,8,Resume Ready,11,,cand12@example.com
+C0001,YouTube,DevOps,8,Interview,2,,cand1@example.com
+C0276,YouTube,Data,9,Offer Received,21,32,cand276@example.com
+C0059,Instagram,QA,9,interview rounds,4,,cand59@example.com
+C0227,Google Ads,IT Services,1,New Lead,1,,cand227@example.com
+C0265,YouTube,Data,2,Applied,24,,cand265@example.com
+C0027,Google Ads,Product,2,resume ready,9,,cand27@example.com
+C0066,Google Ads,QA,7,LEAD ,22,,cand66@example.com
+C0041,LinkedIn,Non-IT,1,LEAD ,15,,cand41@example.com
+C0095,Instagram,Product,6,profile_review,21,,cand95@example.com
+C0202,Google Ads,Non-IT,4,Lead,25,,cand202@example.com
+C9000,LinkedIn,Product,5,Offer,3,40,skip0@example.com
+C0184,YouTube,IT Services,5,Lead,11,,cand184@example.com
+C0223,Instagram,QA,3,lead,24,,cand223@example.com
+C0093,Instagram,Data,7,profile_review,22,,cand93@example.com
+C0291,YouTube,DevOps,7,lead,14,,cand291@example.com
+C0226,Instagram,IT Services,10,applications sent,22,,cand226@example.com
+C0209,YouTube,Non-IT,9,Profile Review,14,,cand209@example.com
+C0020,Instagram,DevOps,12,lead,3,,cand20@example.com
+C0161,Instagram,DevOps,5,applications sent,22,,cand161@example.com
+C0148,LinkedIn,DevOps,5,lead,25,,cand148@example.com
+C0183,LinkedIn,Data,8,lead,24,,cand183@example.com
+C0281,LinkedIn,Data,2,Resume Ready,7,,cand281@example.com
+C0238,YouTube,QA,10,Resume-Ready,20,,cand238@example.com
+C0285,LinkedIn,Data,1,profile_review,21,,cand285@example.com
+C0070,YouTube,Product,2,Applied,18,,cand70@example.com
+C0110,LinkedIn,Non-IT,6,lead,5,,cand110@example.com
+C0086,Instagram,IT Services,3,applications sent,16,,cand86@example.com
+C0272,Google Ads,DevOps,2,LEAD ,12,,cand272@example.com
+C0279,LinkedIn,DevOps,1,applications sent,15,,cand279@example.com
+C0278,LinkedIn,DevOps,12,Interview,18,,cand278@example.com
+C0069,YouTube,Data,12,Resume Ready,10,,cand69@example.com
+C0192,YouTube,Data,3,resume ready,24,,cand192@example.com
+C0033,Google Ads,Product,8,lead,8,,cand33@example.com
+C0096,Google Ads,IT Services,5,Profile review,13,,cand96@example.com
+C0264,LinkedIn,IT Services,2,Resume-Ready,5,,cand264@example.com
+C0067,YouTube,IT Services,2,Resume Ready,3,,cand67@example.com
+C0283,Instagram,Product,1,LEAD ,18,,cand283@example.com
+C0295,YouTube,QA,2,Profile review,12,,cand295@example.com
+C0133,Instagram,Product,2,Resume Ready,24,,cand133@example.com
+C0134,Instagram,DevOps,5,interview rounds,16,,cand134@example.com
+C0277,Google Ads,Data,8,Resume Ready,3,,cand277@example.com
+C0289-dup,YouTube,Data,8,profile_review,19,,CAND289@EXAMPLE.COM
+C0042,LinkedIn,Product,4,HR Call,18,,cand42@example.com
+C0003,Instagram,Non-IT,3,profile_review,5,,cand3@example.com
+C0211-dup,Google Ads,Data,9,resume ready,23,,CAND211@EXAMPLE.COM
+C0036,Google Ads,Product,7,New Lead,4,,cand36@example.com
+C0182,LinkedIn,IT Services,3,resume ready,6,,cand182@example.com
+C0004,LinkedIn,DevOps,12,Profile review,10,,cand4@example.com
+C0268,Instagram,Non-IT,3,Applications Sent,21,,cand268@example.com
+C9004,LinkedIn,Product,5,Offer,3,40,skip4@example.com
+C0078-dup,Instagram,QA,6,Lead,1,,CAND78@EXAMPLE.COM
+C0169,LinkedIn,Data,3,applications sent,8,,cand169@example.com
+C0190,YouTube,DevOps,1,hr call,21,,cand190@example.com
+C0171,LinkedIn,Data,9,Applied,11,,cand171@example.com
+C0237,Instagram,Non-IT,12,Lead,17,,cand237@example.com
+C0231,LinkedIn,Product,5,applications sent,3,,cand231@example.com
+C0156,Instagram,Data,5,profile_review,1,,cand156@example.com
+C0157,LinkedIn,DevOps,8,lead,7,,cand157@example.com
+C0117,YouTube,DevOps,1,Applied,16,,cand117@example.com
+C0030,YouTube,Non-IT,2,New Lead,4,,cand30@example.com
+C0235,YouTube,Data,2,Applied,6,,cand235@example.com
+C0023,Google Ads,QA,6,New Lead,15,,cand23@example.com
+C0063,Google Ads,DevOps,5,New Lead,17,,cand63@example.com
+C0015,YouTube,Data,12,profile_review,4,,cand15@example.com
+C0062,LinkedIn,DevOps,9,applications sent,11,,cand62@example.com
+C0262,LinkedIn,DevOps,4,Applied,12,,cand262@example.com
+C0187,YouTube,IT Services,12,LEAD ,10,,cand187@example.com
+C9005,LinkedIn,Product,5,Offer,3,40,skip5@example.com
+C0179,Instagram,IT Services,2,New Lead,11,,cand179@example.com
+C0080,Instagram,QA,2,profile_review,24,,cand80@example.com
+C0017,LinkedIn,IT Services,8,Resume Ready,21,,cand17@example.com
+C0165,Instagram,Product,7,Profile review,24,,cand165@example.com
+C0175,Referral,Non-IT,5,profile_review,4,,cand175@example.com
+C0167,YouTube,Non-IT,11,HR Call,20,,cand167@example.com
+C0214,Instagram,QA,2,HR call,24,,cand214@example.com
+C0196,Google Ads,IT Services,8,Profile Review,17,,cand196@example.com
+C0282,YouTube,DevOps,11,New Lead,6,,cand282@example.com
+C0151,Google Ads,Product,6,applications sent,5,,cand151@example.com
+C0101,YouTube,DevOps,3,New Lead,5,,cand101@example.com
+C0084,Instagram,DevOps,9,Profile Review,25,,cand84@example.com
+C0138,Instagram,IT Services,6,applications sent,19,,cand138@example.com
+C0040,Instagram,Non-IT,12,lead,21,,cand40@example.com
+C0207,Google Ads,IT Services,3,Profile review,10,,cand207@example.com
+C0250,Referral,QA,10,resume ready,11,,cand250@example.com
+C0053,Google Ads,QA,9,applications sent,12,,cand53@example.com
+C0236,Instagram,Non-IT,9,profile_review,13,,cand236@example.com
+C0131,Google Ads,QA,6,resume ready,19,,cand131@example.com
+C0269,Google Ads,Product,8,Profile review,14,,cand269@example.com
+C0159,LinkedIn,Data,3,LEAD ,24,,cand159@example.com
+C0298,LinkedIn,IT Services,1,HR call,11,,cand298@example.com
+C0143,Instagram,IT Services,2,Profile review,5,,cand143@example.com
+C0079,Google Ads,Product,3,New Lead,18,,cand79@example.com
+C0043,YouTube,Product,5,profile_review,10,,cand43@example.com
+C0206,LinkedIn,IT Services,4,HR call,2,,cand206@example.com
+C0217,Instagram,IT Services,12,New Lead,8,,cand217@example.com
+C0213,Instagram,IT Services,9,New Lead,14,,cand213@example.com
+C0257,YouTube,Non-IT,7,profile_review,3,,cand257@example.com
+C0147,YouTube,DevOps,1,Lead,3,,cand147@example.com
+C0260,Instagram,QA,3,Lead,19,,cand260@example.com
+C0204,Google Ads,Product,8,LEAD ,5,,cand204@example.com
+C0031,LinkedIn,IT Services,6,Resume Ready,10,,cand31@example.com
+C0021,YouTube,Data,6,LEAD ,1,,cand21@example.com
+C0111,LinkedIn,Non-IT,3,Profile review,16,,cand111@example.com
+C0135,Instagram,Data,3,Profile review,15,,cand135@example.com
+C0008,YouTube,Product,8,Profile review,21,,cand8@example.com
+C0035,YouTube,Non-IT,7,HR call,9,,cand35@example.com
+C0009,Google Ads,Product,10,New Lead,21,,cand9@example.com
+C0038,LinkedIn,IT Services,10,Resume-Ready,16,,cand38@example.com
+C0242,YouTube,Non-IT,3,Profile review,13,,cand242@example.com
+C0089,YouTube,IT Services,10,Profile review,17,,cand89@example.com
+C0188,Instagram,Data,7,Profile review,11,,cand188@example.com
+C0216,Instagram,QA,5,Profile Review,7,,cand216@example.com
+C0199,Google Ads,Non-IT,11,resume ready,12,,cand199@example.com
+C0068,Google Ads,Product,9,Profile Review,19,,cand68@example.com
+C0163,Google Ads,IT Services,1,lead,23,,cand163@example.com
+C0185,YouTube,DevOps,8,Profile Review,17,,cand185@example.com
+C0007,YouTube,DevOps,10,Resume Ready,25,,cand7@example.com
+C0271,Instagram,Data,9,applications sent,11,,cand271@example.com
+C0037,Instagram,IT Services,11,Applied,9,,cand37@example.com
+C0256,Instagram,Data,11,resume ready,5,,cand256@example.com
+C0124,Instagram,IT Services,11,profile_review,9,,cand124@example.com
+C0058,LinkedIn,Product,10,Applied,1,,cand58@example.com
+C0198,LinkedIn,IT Services,8,Interview Rounds,10,,cand198@example.com
+C0254,Google Ads,QA,2,Profile review,7,,cand254@example.com
+C0123,Google Ads,DevOps,8,LEAD ,2,,cand123@example.com
+C0028,YouTube,DevOps,7,hr call,21,,cand28@example.com
+C0152,YouTube,QA,12,LEAD ,13,,cand152@example.com
+C0201,LinkedIn,QA,2,Applications Sent,18,,cand201@example.com
+C0097,YouTube,Non-IT,12,Lead,21,,cand97@example.com
+C0261,Google Ads,QA,7,Lead,1,,cand261@example.com
+C0266,Google Ads,IT Services,1,resume ready,21,,cand266@example.com
+C0106,YouTube,Non-IT,9,Applications Sent,10,,cand106@example.com
+C0155,YouTube,Non-IT,6,lead,25,,cand155@example.com
+C0014,Google Ads,Non-IT,8,Applications Sent,7,,cand14@example.com
+C0146,LinkedIn,Product,3,Resume-Ready,20,,cand146@example.com
+C0284,YouTube,QA,5,Resume-Ready,9,,cand284@example.com
+C0128,LinkedIn,Data,3,applications sent,15,,cand128@example.com
+C0044,YouTube,Data,2,lead,25,,cand44@example.com
+C0142,LinkedIn,DevOps,11,applications sent,6,,cand142@example.com
+C0127,Google Ads,Product,9,profile_review,11,,cand127@example.com
+C9002,LinkedIn,Product,5,Offer,3,40,skip2@example.com
+C0162,LinkedIn,DevOps,6,Applications Sent,7,,cand162@example.com
+C0220,YouTube,DevOps,12,Interview,10,,cand220@example.com
+C0180,Google Ads,IT Services,9,Profile Review,14,,cand180@example.com
+C0197,Google Ads,Non-IT,1,Applied,9,,cand197@example.com
+C0036-dup,Google Ads,Product,7,New Lead,4,,CAND36@EXAMPLE.COM
+C0064,Google Ads,Non-IT,11,Profile review,24,,cand64@example.com
+C0072,LinkedIn,QA,6,Interview Rounds,6,,cand72@example.com
+C0052,Google Ads,QA,1,LEAD ,7,,cand52@example.com
+C0045,Instagram,Non-IT,11,New Lead,18,,cand45@example.com
+C0112,Google Ads,IT Services,1,LEAD ,7,,cand112@example.com

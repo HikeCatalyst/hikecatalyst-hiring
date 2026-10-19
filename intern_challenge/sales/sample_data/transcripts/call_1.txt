@@ -1,0 +1,10 @@
+# Call 1: price-sensitive
+
+Rep: What made you reach out?
+Lead: I am a Java dev with 5 years in a services company. I want a product job.
+Rep: Anything stopping you?
+Lead: I have tried alone for six months and got two calls. The fee is high for me.
+Rep: What would a 30 percent hike be worth in a year?
+Lead: About 3 lakhs. Fine, but I need to ask my father.
+Rep: Shall we book a call with him on Thursday?
+Lead: Maybe next week.

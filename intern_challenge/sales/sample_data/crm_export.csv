@@ -1,0 +1,81 @@
+lead_id,name,email,owner,stage,deal_value_inr,last_activity_date,source
+L054,Karan Shah ,karan54@example.com,,proposal,15000,2026-08-09,Instagram
+L048,Rohan Gupta,rohan48@example.com,Asha,Lost,15000,2026-10-14,Referral
+L050,Priya Nair,priya50@example.com,,WON,,2026-10-11,Webinar
+L001,Priya Nair,priya1@example.com,Ravi,Contacted,15000,2026-08-27,Referral
+L051,Arjun Reddy,arjun51@example.com,,New,0,2026-10-17,Instagram
+L046,Vikram Rao,vikram46@example.com,Asha,Lost,15000,2026-10-19,Referral
+L068,Nikhil Jain,nikhil68@example.com,,WON,15000,2026-10-01,Instagram
+L057,Vikram Rao,vikram57@example.com,,proposal,15000,2026-08-05,Webinar
+L060,Aarav Mehta,aarav60@example.com,Ravi,Contacted,40000,2026-10-17,Instagram
+L040,Meera Pillai,meera40@example.com,,Negotiation,15000,2026-10-18,Instagram
+L007,Rohan Gupta,rohan7@example.com,Asha,Proposal,40000,2026-09-14,Instagram
+L069,Rohan Gupta,rohan69@example.com,Ravi,New,25000,2026-09-20,Webinar
+L012,Vikram Rao,vikram12@example.com,Asha,proposal,0,2026-09-25,Referral
+L024,Rohan Gupta,rohan24@example.com,Ravi,New,0,2026-09-28,LinkedIn
+L051,Arjun Reddy,arjun51@example.com,,New,0,2026-10-17,Instagram
+L008,Aarav Mehta,aarav8@example.com,Asha,Negotiation,,2026-08-14,Referral
+L049,Nikhil Jain,nikhil49@example.com,Ravi,Negotiation,40000,2026-10-26,LinkedIn
+L011,Vikram Rao,vikram11@example.com,Ravi,New,40000,2026-10-08,LinkedIn
+L053,Priya Nair,priya53@example.com,Asha,Negotiation,0,2026-09-14,Webinar
+L029,Aarav Mehta,aarav29@example.com,,proposal,,2026-08-14,Instagram
+L063,Vikram Rao ,vikram63@example.com,,proposal,0,2026-09-21,LinkedIn
+L005,Rohan Gupta,rohan5@example.com,,Lost,,2026-08-13,Instagram
+L016,Isha Kapoor,isha16@example.com,Ravi,proposal,0,2026-09-06,Instagram
+L067,Isha Kapoor,isha67@example.com,Ravi,Proposal,25000,2026-10-07,Webinar
+L010,Meera Pillai,meera10@example.com,,Won,0,2026-10-11,Instagram
+L030,Karan Shah,karan30@example.com,,WON,,2026-08-27,Instagram
+L018,Arjun Reddy ,arjun18@example.com,,New,40000,2026-10-07,Referral
+L041,Rohan Gupta,rohan41@example.com,,Lost,40000,2026-08-15,LinkedIn
+L045,Arjun Reddy ,arjun45@example.com,,WON,,2026-10-08,Instagram
+L006,Rohan Gupta,rohan6@example.com,,Proposal,25000,2026-09-09,Instagram
+L028,Divya Menon,divya28@example.com,Asha,Won,40000,2026-08-24,LinkedIn
+L065,Rohan Gupta,rohan65@example.com,,WON,40000,2026-09-06,Webinar
+L033,Rohan Gupta,rohan33@example.com,,Discovery,15000,2026-10-03,Webinar
+L023,Sneha Iyer,sneha23@example.com,Ravi,Lost,40000,2026-10-23,Webinar
+L064,Nikhil Jain,nikhil64@example.com,Asha,Proposal,40000,2026-09-20,Instagram
+L035,Rohan Gupta,rohan35@example.com,Asha,Contacted,40000,2026-08-07,Instagram
+L015,Divya Menon,divya15@example.com,,New,40000,2026-10-19,Referral
+L022,Divya Menon,divya22@example.com,,proposal,40000,2026-08-23,Webinar
+L013,Rohan Gupta,rohan13@example.com,Asha,Proposal,25000,2026-09-18,LinkedIn
+L066,Divya Menon,divya66@example.com,Asha,Negotiation,15000,2026-09-02,Referral
+L038,Priya Nair,priya38@example.com,,proposal,25000,2026-08-01,Referral
+L003,Isha Kapoor,isha3@example.com,,Contacted,15000,2026-08-07,Instagram
+L066,Divya Menon,divya66@example.com,Asha,Negotiation,15000,2026-09-02,Referral
+L056,Aarav Mehta,aarav56@example.com,,Negotiation,40000,2026-08-11,Webinar
+L027,Divya Menon ,divya27@example.com,,proposal,15000,2026-09-07,Referral
+L017,Aarav Mehta,aarav17@example.com,Asha,New,25000,2026-10-08,LinkedIn
+L019,Ananya Das,ananya19@example.com,Ravi,Won,15000,2026-08-05,Referral
+L032,Vikram Rao,vikram32@example.com,Asha,Won,40000,2026-08-03,Webinar
+L070,Divya Menon,divya70@example.com,,Lost,,2026-09-15,Webinar
+L002,Rohan Gupta,rohan2@example.com,Ravi,Lost,40000,2026-10-21,LinkedIn
+L047,Priya Nair,priya47@example.com,,Discovery,25000,2026-08-26,Referral
+L039,Rohan Gupta,rohan39@example.com,,Contacted,,2026-08-10,Instagram
+L048,Rohan Gupta,rohan48@example.com,Asha,Lost,15000,2026-10-14,Referral
+L021,Isha Kapoor,isha21@example.com,Asha,Won,40000,2026-09-05,Referral
+L043,Isha Kapoor,isha43@example.com,Asha,Discovery,15000,2026-08-22,Webinar
+L026,Ananya Das,ananya26@example.com,Asha,Proposal,40000,2026-09-06,LinkedIn
+L067,Isha Kapoor,isha67@example.com,Ravi,Proposal,25000,2026-10-07,Webinar
+L059,Sneha Iyer,sneha59@example.com,,Proposal,,2026-10-16,Webinar
+L061,Rohan Gupta,rohan61@example.com,Asha,Discovery,25000,2026-08-27,LinkedIn
+L055,Rohan Gupta,rohan55@example.com,,New,,2026-09-23,Referral
+L052,Priya Nair,priya52@example.com,,Discovery,25000,2026-10-19,LinkedIn
+L004,Rohan Gupta,rohan4@example.com,Asha,Won,15000,2026-08-15,LinkedIn
+L058,Divya Menon,divya58@example.com,,Won,40000,2026-10-14,LinkedIn
+L031,Isha Kapoor,isha31@example.com,Ravi,Discovery,,2026-08-26,LinkedIn
+L020,Priya Nair,priya20@example.com,,Contacted,40000,2026-10-22,Instagram
+L025,Rohan Gupta,rohan25@example.com,,Proposal,0,2026-08-16,Referral
+L051,Arjun Reddy,arjun51@example.com,,New,0,2026-10-17,Instagram
+L034,Isha Kapoor,isha34@example.com,,New,,2026-10-06,Instagram
+L028,Divya Menon,divya28@example.com,Asha,Won,40000,2026-08-24,LinkedIn
+L042,Vikram Rao,vikram42@example.com,,proposal,40000,2026-08-27,Webinar
+L036,Divya Menon ,divya36@example.com,,Negotiation,40000,2026-08-04,LinkedIn
+L044,Arjun Reddy,arjun44@example.com,,Proposal,0,2026-08-27,Instagram
+L009,Nikhil Jain ,nikhil9@example.com,Ravi,WON,15000,2026-09-26,Webinar
+L062,Sneha Iyer,sneha62@example.com,Asha,proposal,15000,2026-09-23,Referral
+L014,Sneha Iyer,sneha14@example.com,,Won,25000,2026-08-08,Webinar
+L039,Rohan Gupta,rohan39@example.com,,Contacted,,2026-08-10,Instagram
+L037,Karan Shah,karan37@example.com,,Discovery,15000,2026-09-01,Instagram
+L001,Priya Nair,priya1@example.com,Ravi,Contacted,15000,2026-08-27,Referral
+L014,Sneha Iyer,sneha14@example.com,,Won,25000,2026-08-08,Webinar
+L060,Aarav Mehta,aarav60@example.com,Ravi,Contacted,40000,2026-10-17,Instagram

@@ -11,3 +11,7 @@ Do **2 tasks** from `tasks/` (we tell you which ones), plus a 30-minute call. Ta
 | 05 | Sales Enablement Kit | Medium to Advanced |
 
 Use AI, log it in `AI_LOG.md`, and never invent a number, a testimonial or a placement guarantee.
+
+## Sample files
+
+Starter data is in [`sample_data/`](sample_data/).

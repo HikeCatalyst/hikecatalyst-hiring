@@ -1,0 +1,17 @@
+# 15 comments and DMs to answer
+
+1. "This helped me so much! Got 3 interview calls after fixing my resume." (praise)
+2. "How much does the mentoring cost?" (question)
+3. "Can you guarantee a 50% hike? Otherwise I will not pay." (guarantee demand)
+4. "Is this a scam? My friend said you took money and did nothing." (accusation)
+5. "I have 2 years of experience in support, can I move to product?" (question)
+6. "Please remove my name from your success story post." (privacy request, must be handled fast)
+7. "Your ATS checker gave me 42%. Is that bad?" (question)
+8. "Worst service. Waste of money. Refund now!!!" (angry, public)
+9. "Do you work with freshers?" (question)
+10. "Great post, but your numbers look made up. Source?" (challenge)
+11. "I paid yesterday and nobody has called me." (complaint)
+12. "Can you share the salary guide PDF?" (request)
+13. "Which city has the best hikes for QA roles?" (question)
+14. "Collab? We have 80k followers." (partnership, unknown account)
+15. "I got placed at a big company because of you!" (praise, claim not yet verified)
