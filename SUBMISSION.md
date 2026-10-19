@@ -46,7 +46,7 @@ Accounts to create (free tiers are enough): GitHub, plus for developers an LLM p
 
 ## Send it to us
 
-1. Fork `HikeCatalyst/hikecatalyst-internship-test` and create a branch.
+1. Fork `HikeCatalyst/hikecatalyst-hiring` and create a branch.
 2. Add one file: `submissions/<your_full_name_snake_case>.md` with this content:
 
    ```markdown
@@ -62,8 +62,8 @@ Accounts to create (free tiers are enough): GitHub, plus for developers an LLM p
 3. Open a Pull Request. Do not copy your code into this repository.
 
 ```bash
-git clone git@github.com:<your-username>/hikecatalyst-internship-test.git
-cd hikecatalyst-internship-test
+git clone git@github.com:<your-username>/hikecatalyst-hiring.git
+cd hikecatalyst-hiring
 git switch -c submission/<your_full_name>
 mkdir -p submissions && $EDITOR submissions/<your_full_name>.md
 git add -A && git commit -m "submission: <your name>"
