@@ -4,12 +4,13 @@ Congratulations on being shortlisted. Pick the folder for the role you applied t
 
 | Role | Folder |
 |------|--------|
-| Full Stack Web Development | `intern_challenge/full_stack_developer` |
+| AI Applied Full Stack Development | `intern_challenge/ai_full_stack_developer` (12 tasks) |
 | Social Media & Content Marketing | `intern_challenge/social_media_content_marketing` |
 | Business Analyst / Development Associate | `intern_challenge/business_analyst` |
 | IT Recruitment & Talent Acquisition | `intern_challenge/it_recruiter` |
+| Sales | `intern_challenge/sales` |
 
-Each role has a **medium** task (`medium.md`) and an **advanced** task (`advanced.md`). Do one. Medium shows you can do the job. Advanced shows you can be trusted with hard problems and is considered for the stronger offer track.
+Each role folder has a `tasks/` folder: 12 tasks for AI full stack, 5 for every other role. Each task is marked medium or advanced. We assign the tasks for your role. Medium shows you can do the job. Advanced shows you can be trusted with hard problems and is considered for the stronger offer track.
 
 ## How to submit
 
