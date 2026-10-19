@@ -16,3 +16,27 @@ A blank answer, a copy of the question as the answer, and an answer that says "g
 ### Deliverables
 
 Code, `rubric.md`, a test file with 8 sample answers (weak to strong) and the scores you got, and `AI_LOG.md`.
+
+
+---
+
+## Repo and submission
+
+1. **Public repo name:** `hikecatalyst-ai-full-stack-developer-ai-interview-coach` on **your own personal GitHub account**. Do not push to the HikeCatalyst repo.
+2. **Suggested stack:** Next.js, Postgres or SQLite, Zod, a chart library
+3. **You need:** Node 20+, an LLM key, a browser with microphone for the voice bonus. Never commit API keys: keep them in `.env`, list `.env` in `.gitignore`, and commit only `.env.example`.
+4. **Create and push** (run `gh auth login` once first, or create the repo on github.com and use the `git remote add` line):
+
+```bash
+mkdir hikecatalyst-ai-full-stack-developer-ai-interview-coach && cd hikecatalyst-ai-full-stack-developer-ai-interview-coach
+git init -b main
+# ...add your code and README.md...
+git add -A && git commit -m "feat: first working version"
+gh repo create hikecatalyst-ai-full-stack-developer-ai-interview-coach --public --source=. --remote=origin --push
+# without gh:
+# git remote add origin git@github.com:<your-username>/hikecatalyst-ai-full-stack-developer-ai-interview-coach.git
+# git push -u origin main
+```
+
+5. Commit small and often. Check that the repo is **public** in a private browser window and that no secrets are in the history.
+6. Submit the repo link in your PR (see the root `SUBMISSION.md`). The README must have setup steps that work on a clean machine.

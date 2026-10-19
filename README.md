@@ -14,10 +14,7 @@ Each role folder has a `tasks/` folder: 12 tasks for AI full stack, 5 for every 
 
 ## How to submit
 
-1. Fork or clone this repository.
-2. Copy your role folder and rename it to your full name in snake_case, for example `john_doe`.
-3. Add your work inside your copy.
-4. Open a Pull Request.
+Build each task in **your own public GitHub repo**, then open a Pull Request that adds a file with your repo links. Setup steps, Git and GitHub commands, and a checklist are in [SUBMISSION.md](SUBMISSION.md). Every task file ends with a "Repo and submission" section giving the repo name and commands for that task.
 
 ## AI policy
 
